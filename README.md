@@ -7,8 +7,7 @@ A YouTube clone website built on ReactJS and MaterialUI would have a similar loo
 
 https://clone-c3ff2.web.app/
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![yuoyube123](https://user-images.githubusercontent.com/126409906/222616199-d2404002-b61a-4b11-9773-1d209706e822.jpg)
 
 
 ## Run Locally
